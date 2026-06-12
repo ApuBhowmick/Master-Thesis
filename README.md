@@ -1,6 +1,4 @@
-# Automated Classification of Central Venous Catheter Tip Position in Chest Radiographs
-**A Two-Step Deep Learning Approach with Tip-Point Feature Engineering**
-
+# **Two-Step Deep Learning for Central Venous Catheter Tip Classification in Chest X-rays**
 ## Overview
 This repository contains the code, data, and visual outputs for my Master's thesis in Statistics and Data Science at Hasselt University (Academic Year 2025-2026).
 
