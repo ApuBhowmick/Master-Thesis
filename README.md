@@ -17,6 +17,8 @@ The repository is organized into the following directories and files based on th
 * **`Image output/`**: Evaluation plots, including ROC curves, standard logistic regression coefficient plots, and cross-validated confusion matrices.
 * **`catheter_tip_features_ml_ready.csv`**: The extracted and normalized spatial features (e.g., `tip_depth_in_atrium_norm`, `mean_tip_radius`) used to train the classical machine learning classifiers (Logistic Regression, Random Forest, XGBoost).
 * **`atriumandcatheter.xlsx`**: The ground-truth clinical labels (correctly placed vs. malpositioned) and metadata provided by the radiologists.
+* **`proef(1).pdf`**: Master thesis report file.
+* **`Master Thesis Final Presentation`**
 
 ## Methodology
 The classification pipeline operates in three main steps:
@@ -41,4 +43,4 @@ The codebase was developed in Python 3.13 and executed on the Vlaams Supercomput
 * **Internal Supervisor:** Prof. dr. Tomasz Burzykowski
 * **Co-supervisor:** Prof. Dirk Valkenborg
 * **External Supervisor:** Tomasz Hryszko
-* **Institution:** Hasselt University, School for Information Technology
+* **Institution:** Hasselt University
